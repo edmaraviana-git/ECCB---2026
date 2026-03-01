@@ -1,0 +1,1840 @@
+IL1B CASP1 {'Annotation': 'PPrel: activation; PPrel: activation, indirect effect; activate; catalyze', 'Direction': '->', 'Score': 1.0}
+IL1B CASP3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+IL1B CASP4 {'Annotation': 'PPrel: activation, indirect', 'Direction': '->', 'Score': 1.0}
+IL1B CASP7 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+IL1B CASP8 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+IL1B GSDMD {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+IL1B HMGB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+IL1B MAPK1 {'Annotation': 'GErel: expression, indirect effect', 'Direction': '<-', 'Score': 1.0}
+IL1B MAPK3 {'Annotation': 'GErel: expression, indirect effect', 'Direction': '<-', 'Score': 1.0}
+IL1B MAPK8 {'Annotation': 'GErel: expression, indirect effect; interaction', 'Direction': '<-', 'Score': 1.0}
+HMGB1 CASP3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HMGB1 GSDMD {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+HMGB1 HMGB2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.92}
+HMGB1 IRF2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HMGB1 MAPK1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HMGB1 MAPK3 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HMGB1 TLR4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HMGB1 TP53 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+HMGB1 TP63 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+HMGB1 TP73 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+AKT1 AKT2 {'Annotation': 'activate; reaction', 'Direction': '->', 'Score': 1.0}
+AKT1 AKT3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+AKT1 APPL1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+AKT1 BAD {'Annotation': 'PPrel: inhibition; PPrel: inhibition, phosphorylation; PPrel: phosphorylation; activate; catalyze; inhibit; input', 'Direction': '-', 'Score': 1.0}
+AKT1 BAX {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+AKT1 BCL2L1 {'Annotation': 'PPrel: activation; activate', 'Direction': '->', 'Score': 1.0}
+AKT1 BCL2L11 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+AKT1 BIRC2 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+AKT1 BIRC3 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+AKT1 CASP1 {'Annotation': 'PPrel: inhibition, indirect effect', 'Direction': '-|', 'Score': 1.0}
+AKT1 CASP3 {'Annotation': 'PPrel: inhibition, indirect effect', 'Direction': '-|', 'Score': 1.0}
+AKT1 CASP9 {'Annotation': 'PPrel: inhibition, phosphorylation; PPrel: phosphorylation; activate; catalyze; inhibit; input', 'Direction': '-', 'Score': 1.0}
+AKT1 CDC37 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+AKT1 CDH1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+AKT1 CTNNB1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+AKT1 FADD {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT1 FAS {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT1 FASLG {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT1 HSP90AA1 {'Annotation': 'PPrel: activated by; activate; activated by; complex; input', 'Direction': '<->', 'Score': 1.0}
+AKT1 LMNA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+AKT1 MAPK1 {'Annotation': 'PPrel: activation, phosphorylation; reaction', 'Direction': '->', 'Score': 1.0}
+AKT1 MAPK3 {'Annotation': 'PPrel: activation, phosphorylation; reaction', 'Direction': '->', 'Score': 1.0}
+AKT1 MAPT {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+AKT1 OGT {'Annotation': 'PPrel: inhibited glycosylation', 'Direction': '|-', 'Score': 1.0}
+AKT1 PRKCD {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+AKT1 PRKCQ {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+AKT1 PSMC5 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+AKT1 PTK2 {'Annotation': 'PPrel: activated, indirect effect', 'Direction': '<-', 'Score': 1.0}
+AKT1 STAT3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT1 STUB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+AKT1 TP53 {'Annotation': 'PPrel: inhibition, phosphorylation; expression regulated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+AKT1 UBA52 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+AKT1 XIAP {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+AKT1 YWHAB {'Annotation': 'activate; reaction', 'Direction': '->', 'Score': 1.0}
+AKT1 YWHAE {'Annotation': 'activate; reaction', 'Direction': '->', 'Score': 1.0}
+AKT1 YWHAG {'Annotation': 'activate; reaction', 'Direction': '->', 'Score': 1.0}
+AKT1 YWHAQ {'Annotation': 'activate; reaction', 'Direction': '->', 'Score': 1.0}
+AKT1 YWHAZ {'Annotation': 'activate; reaction', 'Direction': '->', 'Score': 1.0}
+RIPK3 BIRC2 {'Annotation': 'PPrel: activation, phosphorylation; reaction', 'Direction': '->', 'Score': 1.0}
+RIPK3 BIRC3 {'Annotation': 'PPrel: activation, phosphorylation; reaction', 'Direction': '->', 'Score': 1.0}
+RIPK3 CASP8 {'Annotation': 'PPrel: inhibition; activate; catalyze', 'Direction': '-', 'Score': 1.0}
+RIPK3 CD14 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RIPK3 CDC37 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RIPK3 CFLAR {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+RIPK3 DAPK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+RIPK3 DNM1L {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+RIPK3 FADD {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+RIPK3 FAS {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+RIPK3 FASLG {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+RIPK3 HSP90AA1 {'Annotation': 'PPrel: activation; complex; input', 'Direction': '->', 'Score': 1.0}
+RIPK3 MAPK8 {'Annotation': 'PPrel: activated, indirect effect', 'Direction': '<-', 'Score': 1.0}
+RIPK3 MLKL {'Annotation': 'PPrel: activated by, phosphorylation; PPrel: phosphorylated by', 'Direction': '<-', 'Score': 1.0}
+RIPK3 OGT {'Annotation': 'catalyze; reaction', 'Direction': '->', 'Score': 1.0}
+RIPK3 PELI1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RIPK3 RIPK1 {'Annotation': 'PPrel: activation, phosphorylation; PPrel: binding/association; activate; catalyze; catalyzed by; complex; inhibited by; input; reaction', 'Direction': '->', 'Score': 1.0}
+RIPK3 STUB1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RIPK3 TICAM1 {'Annotation': 'PPrel: activated by; complex; inhibite; input; reaction', 'Direction': '<-|', 'Score': 1.0}
+RIPK3 TLR4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RIPK3 TNFRSF10B {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+RIPK3 TNFSF10 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+RIPK3 TRADD {'Annotation': 'PPrel: activated by, phosphorylation; activated by', 'Direction': '<-', 'Score': 1.0}
+RIPK3 TRAF2 {'Annotation': 'PPrel: activated by, phosphorylation; activated by', 'Direction': '<-', 'Score': 1.0}
+RIPK3 UBA52 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+RIPK3 UBC {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+RIPK3 XIAP {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RIPK3 YWHAE {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+UBC APC {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+UBC BIRC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+UBC BIRC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+UBC CD14 {'Annotation': 'catalyze; catalyzed by; input', 'Direction': '<->', 'Score': 1.0}
+UBC CDC37 {'Annotation': 'catalyze; complex; inhibite; input', 'Direction': '-', 'Score': 1.0}
+UBC CDH1 {'Annotation': 'catalyze; complex; input', 'Direction': '->', 'Score': 1.0}
+UBC CDKN2A {'Annotation': 'inhibite', 'Direction': '-|', 'Score': 1.0}
+UBC CHMP2B {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+UBC CHMP3 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+UBC CHMP4A {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+UBC CHMP4C {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+UBC CHMP6 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+UBC CHMP7 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+UBC CTNNB1 {'Annotation': 'catalyze; complex; input', 'Direction': '->', 'Score': 1.0}
+UBC HSP90AA1 {'Annotation': 'catalyze; complex; inhibit; input', 'Direction': '-', 'Score': 1.0}
+UBC PAK2 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+UBC PDCD6IP {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+UBC PSMA1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMA2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMA3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMA4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMA5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMA6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMA8 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMB1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMB10 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMB11 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMB2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMB4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMB5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMB6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMB8 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMC1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMC2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMC3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMC4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMC5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMC6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD10 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD11 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD12 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD13 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD7 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMD9 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSME1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSME2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSME4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC PSMF1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBC RIPK1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+UBC STUB1 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+UBC TICAM1 {'Annotation': 'catalyze; catalyzed by; input', 'Direction': '<->', 'Score': 1.0}
+UBC TLR4 {'Annotation': 'catalyze; catalyzed by; input', 'Direction': '<->', 'Score': 1.0}
+UBC TP53 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+UBC TP73 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+UBC UBA52 {'Annotation': 'catalyze; catalyzed by; complex; input', 'Direction': '<->', 'Score': 1.0}
+UBC XIAP {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+DFFA BAK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+DFFA CASP3 {'Annotation': 'PPrel: inhibition; activate; catalyze', 'Direction': '-', 'Score': 1.0}
+DFFA GZMB {'Annotation': 'PPrel: inhibited by', 'Direction': '|-', 'Score': 1.0}
+DFFA KPNA1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+DFFA KPNB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+STK24 CASP3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+STK24 CASP7 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+FLOT1 FLOT2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+FLOT1 PDCD6IP {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+FLOT1 SDCBP {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+FLOT1 STAT3 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+GSDMD BAK1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD BAX {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD CASP1 {'Annotation': 'PPrel: activation; catalyze; inhibited by', 'Direction': '|->', 'Score': 1.0}
+GSDMD CASP3 {'Annotation': 'catalyze; inhibit; reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD CASP4 {'Annotation': 'PPrel: activation; catalyze', 'Direction': '->', 'Score': 1.0}
+GSDMD CASP5 {'Annotation': 'PPrel: activation; catalyze', 'Direction': '->', 'Score': 1.0}
+GSDMD CHMP2B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD CHMP3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD CHMP4A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD CHMP4C {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD CHMP6 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD CHMP7 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GSDMD ELANE {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+GSDMD STAT3 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+BMF BAK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+BMF BAX {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BMF BCL2L1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.98}
+BMF MAPK8 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+TRAF2 APPL1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TRAF2 BID {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TRAF2 BIRC2 {'Annotation': 'PPrel: activated by; PPrel: binding/association; activated by; catalyze; catalyzed by; complex; input', 'Direction': '<->', 'Score': 1.0}
+TRAF2 BIRC3 {'Annotation': 'PPrel: activated by; PPrel: binding/association; activated by; catalyze; catalyzed by; complex; input', 'Direction': '<->', 'Score': 1.0}
+TRAF2 CASP3 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TRAF2 CASP8 {'Annotation': 'activated by; catalyze; complex; inhibite; inhibited by; input; reaction', 'Direction': '-', 'Score': 1.0}
+TRAF2 CFLAR {'Annotation': 'complex; inhibit; input; reaction', 'Direction': '-|', 'Score': 1.0}
+TRAF2 FADD {'Annotation': 'PPrel: activated by; activated by; complex; inhibited by; input; reaction', 'Direction': '-', 'Score': 1.0}
+TRAF2 FAS {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TRAF2 FASLG {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TRAF2 HSP90AA1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TRAF2 MAPK8 {'Annotation': 'PPrel: activated, indirect effect; activated by', 'Direction': '<-', 'Score': 1.0}
+TRAF2 OGT {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TRAF2 PRKCD {'Annotation': 'PPrel: activation, indirect', 'Direction': '->', 'Score': 1.0}
+TRAF2 PRKCQ {'Annotation': 'PPrel: activation, indirect', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMA1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMA2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMA3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMA4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMA5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMA6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMA8 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMB1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMB10 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMB11 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMB2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMB4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMB5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMB6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMB8 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMC1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMC2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMC3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMC4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMC5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMC6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD10 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD11 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD12 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD13 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD7 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMD9 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSME1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSME2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSME4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 PSMF1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TRAF2 RIPK1 {'Annotation': 'PPrel: activated by; activated by; complex; input; reaction', 'Direction': '<-', 'Score': 1.0}
+TRAF2 STUB1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TRAF2 TNFRSF10B {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+TRAF2 TNFSF10 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+TRAF2 TRADD {'Annotation': 'PPrel: activation; PPrel: binding/association; activate; complex; input; reaction', 'Direction': '->', 'Score': 1.0}
+TRAF2 XIAP {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+KPNB1 KPNA1 {'Annotation': 'complex; input; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB4 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB4 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB4 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB4 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB4 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB4 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMA4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMA6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMB11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMB2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMB5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMB6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB4 TP53 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB4 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB4 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+MAPK8 AKT2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+MAPK8 APAF1 {'Annotation': 'PPrel: activated, indirect effect; interaction', 'Direction': '<-', 'Score': 1.0}
+MAPK8 BAD {'Annotation': 'PPrel: activated by, phosphorylation; activated by; catalyzed by; interaction', 'Direction': '<-', 'Score': 1.0}
+MAPK8 BAX {'Annotation': 'PPrel: activated, indirect effect; interaction', 'Direction': '<-', 'Score': 1.0}
+MAPK8 BCL2L1 {'Annotation': 'PPrel: inhibited by, phosphorylated by; interaction', 'Direction': '|-', 'Score': 1.0}
+MAPK8 BCL2L11 {'Annotation': 'activated by; catalyzed by', 'Direction': '<-', 'Score': 1.0}
+MAPK8 BID {'Annotation': 'PPrel: activated by; interaction', 'Direction': '<-', 'Score': 1.0}
+MAPK8 CASP3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MAPK8 CTNNB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MAPK8 FAS {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MAPK8 FASLG {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MAPK8 IL1A {'Annotation': 'GErel: expression, indirect effect; interaction', 'Direction': '<-', 'Score': 1.0}
+MAPK8 MAGED1 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+MAPK8 MAPK3 {'Annotation': 'inhibited by; reaction', 'Direction': '|-', 'Score': 1.0}
+MAPK8 PRKCD {'Annotation': 'PPrel: activated by; PPrel: activated, phosphorylation, indirect effect', 'Direction': '<-', 'Score': 1.0}
+MAPK8 PRKCQ {'Annotation': 'PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+MAPK8 STAT3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+MAPK8 TP53 {'Annotation': 'PPrel: activation; PPrel: phosphorylation; activate; interaction', 'Direction': '->', 'Score': 1.0}
+MAPK8 TP73 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+LMNA CASP3 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+LMNA CASP6 {'Annotation': 'PPrel: inhibition; activate; catalyze', 'Direction': '-', 'Score': 1.0}
+LMNA GZMB {'Annotation': 'PPrel: inhibition', 'Direction': '-|', 'Score': 1.0}
+LMNA LMNB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+LMNA STAT3 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+LMNA STUB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TP53BP2 TP53 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+TP53BP2 TP63 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TP53BP2 TP73 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TP53BP2 YWHAZ {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TP53 AKT2 {'Annotation': 'PPrel: inhibition, phosphorylation', 'Direction': '-|', 'Score': 1.0}
+TP53 AKT3 {'Annotation': 'PPrel: inhibition, phosphorylation', 'Direction': '-|', 'Score': 1.0}
+TP53 APAF1 {'Annotation': 'GErel: expression by', 'Direction': '<-', 'Score': 1.0}
+TP53 APPL1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TP53 BAK1 {'Annotation': 'GErel: expression by; complex; expression regulated by; input', 'Direction': '<-', 'Score': 1.0}
+TP53 BAX {'Annotation': 'GErel: expression by; PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+TP53 BBC3 {'Annotation': 'GErel: expression; GErel: expression by; expression regulated by; input', 'Direction': '<->', 'Score': 1.0}
+TP53 BCL2L1 {'Annotation': 'GErel: expression by; complex; expression regulated by; input', 'Direction': '<-', 'Score': 1.0}
+TP53 BID {'Annotation': 'GErel: expression by', 'Direction': '<-', 'Score': 1.0}
+TP53 CASP1 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+TP53 CASP6 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TP53 CASP8 {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+TP53 CDKN2A {'Annotation': 'PPrel: activated by; catalyze; complex; inhibite; input', 'Direction': '<-', 'Score': 1.0}
+TP53 CTNNB1 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+TP53 E2F1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TP53 FAS {'Annotation': 'GErel: expression by; expression regulated by', 'Direction': '<-', 'Score': 1.0}
+TP53 HSP90AA1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TP53 LMNB1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TP53 MAPK1 {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+TP53 MAPK3 {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+TP53 NMT1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TP53 PPP1R13B {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+TP53 PRKCD {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+TP53 PSMA1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMA2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMA3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMA4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMA5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMA6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMA8 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMB1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMB10 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMB11 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMB2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMB5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMB6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMB8 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMC1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMC2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMC3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMC4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMC5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMC6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD10 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD11 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD12 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD13 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD5 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD6 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD7 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMD9 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSME1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSME2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSME4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PSMF1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP53 PTK2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TP53 STAT3 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+TP53 TFDP1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+TP53 TFDP2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TP53 TNFRSF10B {'Annotation': 'GErel: expression by; expression regulated by', 'Direction': '<-', 'Score': 1.0}
+TP53 TP63 {'Annotation': 'activate; expression regulates; inhibited by', 'Direction': '|->', 'Score': 1.0}
+TP53 TP73 {'Annotation': 'GErel: expression; PPrel: inhibited by; expression regulates', 'Direction': '|->', 'Score': 1.0}
+TP53 UBA52 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+TP53 YWHAZ {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PSMB11 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB11 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB11 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB11 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB11 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB11 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMA4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMA6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMB2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMB5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMB6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB11 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB11 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PDCD6IP CHMP2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PDCD6IP CHMP3 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PDCD6IP CHMP4A {'Annotation': 'PPrel: binding/association; complex; input', 'Direction': '-', 'Score': 1.0}
+PDCD6IP CHMP4C {'Annotation': 'PPrel: binding/association; complex; input', 'Direction': '-', 'Score': 1.0}
+PDCD6IP CHMP6 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PDCD6IP CHMP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PDCD6IP FLOT2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PDCD6IP SDCBP {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PDCD6IP UBA52 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+MAPK3 AKT2 {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+MAPK3 AKT3 {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+MAPK3 APAF1 {'Annotation': 'catalyzed by; reaction', 'Direction': '<-', 'Score': 1.0}
+MAPK3 BAD {'Annotation': 'PPrel: inhibited by, phosphorylated by; activated by', 'Direction': '-', 'Score': 1.0}
+MAPK3 BCL2L1 {'Annotation': 'activated by; reaction', 'Direction': '<-', 'Score': 1.0}
+MAPK3 BCL2L11 {'Annotation': 'PPrel: inhibited by, phosphorylated by', 'Direction': '|-', 'Score': 1.0}
+MAPK3 CASP3 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+MAPK3 CASP8 {'Annotation': 'inhibited by', 'Direction': '|-', 'Score': 1.0}
+MAPK3 CASP9 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+MAPK3 CTNNB1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MAPK3 DAPK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+MAPK3 FADD {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+MAPK3 HSP90AA1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+MAPK3 IL1A {'Annotation': 'GErel: expression, indirect effect', 'Direction': '<-', 'Score': 1.0}
+MAPK3 MAPK1 {'Annotation': 'catalyze; catalyzed by; input; reaction', 'Direction': '<->', 'Score': 1.0}
+MAPK3 MAPT {'Annotation': 'PPrel: phosphorylation', 'Direction': '->', 'Score': 1.0}
+MAPK3 PRKCD {'Annotation': 'PPrel: activated by; PPrel: activated, phosphorylation, indirect effect; complex; input', 'Direction': '<-', 'Score': 1.0}
+MAPK3 PRKCQ {'Annotation': 'activated by; inhibited by', 'Direction': '-', 'Score': 1.0}
+MAPK3 PTK2 {'Annotation': 'PPrel: activated, indirect effect; activate', 'Direction': '<->', 'Score': 1.0}
+MAPK3 ROCK1 {'Annotation': 'PPrel: inhibition, phosphorylation', 'Direction': '-|', 'Score': 1.0}
+MAPK3 STAT3 {'Annotation': 'activate; reaction', 'Direction': '->', 'Score': 1.0}
+MAPK3 TLR4 {'Annotation': 'PPrel: activated, phosphorylation, indirect effect', 'Direction': '<-', 'Score': 1.0}
+MAPK3 TNFSF10 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+MAPK3 YWHAB {'Annotation': 'activate; activated by; catalyze; catalyzed by; complex; inhibited by; input', 'Direction': '->', 'Score': 1.0}
+MAPK3 YWHAE {'Annotation': 'activate; activated by', 'Direction': '<->', 'Score': 1.0}
+MAPK3 YWHAG {'Annotation': 'activate; activated by', 'Direction': '<->', 'Score': 1.0}
+MAPK3 YWHAQ {'Annotation': 'activate; activated by', 'Direction': '<->', 'Score': 1.0}
+MAPK3 YWHAZ {'Annotation': 'activate; activated by', 'Direction': '<->', 'Score': 1.0}
+PPP3CC BAD {'Annotation': 'PPrel: activated by, dephosphorylation; catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PPP3CC PPP3R1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PPP3CC YWHAB {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PPP3CC YWHAE {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PPP3CC YWHAG {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PPP3CC YWHAQ {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PPP3CC YWHAZ {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TJP1 CASP3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TJP1 CDH1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+TJP1 CTNNB1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+TJP1 OCLN {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+TJP1 PKP1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TJP1 TJP2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 1.0}
+ADD1 CASP3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BID BAD {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+BID BAK1 {'Annotation': 'PPrel: activated by; complex; input', 'Direction': '<-', 'Score': 1.0}
+BID BAX {'Annotation': 'PPrel: activated by; PPrel: activated, indirect effect; complex; input', 'Direction': '<-', 'Score': 1.0}
+BID BCL2L1 {'Annotation': 'PPrel: inhibited by; complex; input', 'Direction': '|-', 'Score': 1.0}
+BID BIRC3 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BID CASP1 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+BID CASP3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BID CASP8 {'Annotation': 'PPrel: activated by; activated by; catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BID CFLAR {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BID FADD {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BID FAS {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BID FASLG {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BID GSN {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+BID GZMB {'Annotation': 'PPrel: activated by; activated by; catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BID NMT1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BID RIPK1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BID TRADD {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+PSMA4 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA4 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA4 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA4 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA4 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA4 PSMA1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMA6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMB2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMB5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMB6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA4 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA4 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD6 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD6 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD6 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD6 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD6 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD6 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMA6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMB2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMB5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMB6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD11 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD3 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD6 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD6 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+DSG2 CASP3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+DSG2 DSP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DSG2 PKP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+APIP APAF1 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+APIP AVEN {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+APIP CARD8 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+APIP CASP9 {'Annotation': 'complex; inhibite; input', 'Direction': '-|', 'Score': 1.0}
+PSMB5 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB5 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB5 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB5 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB5 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB5 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMA6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMB2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMB6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB5 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB5 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+YWHAE AKT2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+YWHAE AKT3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+YWHAE BAD {'Annotation': 'PPrel: inhibited by; complex; input', 'Direction': '|-', 'Score': 1.0}
+YWHAE CASP3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+YWHAE CDC37 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+YWHAE CTNNB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+YWHAE HSP90AA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YWHAE KPNA1 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+YWHAE MAPK1 {'Annotation': 'activate; activated by', 'Direction': '<->', 'Score': 1.0}
+YWHAE PPP3R1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+YWHAE STUB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.54}
+YWHAE VIM {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+YWHAE YWHAB {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+YWHAE YWHAG {'Annotation': 'complex; input; predicted', 'Direction': '-', 'Score': 1.0}
+YWHAE YWHAQ {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+YWHAE YWHAZ {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+ROCK1 BIRC2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.69}
+ROCK1 CASP3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+ROCK1 CTNNB1 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+ROCK1 DAPK3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+ROCK1 HSP90AA1 {'Annotation': 'activate; catalyzed by; complex; input', 'Direction': '<->', 'Score': 1.0}
+ROCK1 MAPK1 {'Annotation': 'PPrel: inhibition, phosphorylation', 'Direction': '-|', 'Score': 1.0}
+ROCK1 PTK2 {'Annotation': 'activate; activated by; catalyzed by', 'Direction': '<->', 'Score': 1.0}
+PSMA6 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA6 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA6 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA6 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA6 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA6 PSMA1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMA3 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMB2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMB6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA6 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA6 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PRKCD BAD {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRKCD CASP3 {'Annotation': 'activated by; catalyze', 'Direction': '<->', 'Score': 1.0}
+PRKCD DIABLO {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PRKCD MAPK1 {'Annotation': 'PPrel: activated by; PPrel: activated, phosphorylation, indirect effect', 'Direction': '<-', 'Score': 1.0}
+PRKCD STAT3 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+PRKCD TP63 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PRKCD YWHAB {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PSMC1 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC1 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC1 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC1 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC1 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC1 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMB2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMB6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMC2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMC3 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMC4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMC5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMD9 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC1 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMC1 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB6 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB6 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB6 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB6 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB6 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB6 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMB2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB6 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB6 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB2 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB2 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB2 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB2 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB2 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB2 PSMA1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMA3 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMC2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMC3 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMC4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMC5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSME1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB2 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB2 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSME1 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME1 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME1 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME1 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME1 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME1 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD13 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME1 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSME1 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD13 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD13 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD13 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD13 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD13 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD13 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMB8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD7 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD13 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD13 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB8 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB8 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB8 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB8 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB8 IRF1 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+PSMB8 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB8 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMC3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB8 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB8 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+VIM CASP3 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+VIM CASP6 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+VIM CASP7 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+VIM CASP8 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+VIM YWHAB {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+VIM YWHAG {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+VIM YWHAZ {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+OCLN CASP3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+OCLN TJP2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+IL1A CASP1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+IL1A MAPK1 {'Annotation': 'GErel: expression, indirect effect', 'Direction': '<-', 'Score': 1.0}
+SPTAN1 CASP3 {'Annotation': 'PPrel: inhibition; activate; catalyze', 'Direction': '-', 'Score': 1.0}
+SPTAN1 GSN {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SPTAN1 PTK2 {'Annotation': 'catalyze; complex; input', 'Direction': '->', 'Score': 1.0}
+BMX BIRC2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BMX CASP3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BMX PTK2 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BMX STAT3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+BAX AKT2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BAX APAF1 {'Annotation': 'PPrel: activated, indirect effect; activated by', 'Direction': '<-', 'Score': 1.0}
+BAX BAD {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BAX BAK1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+BAX BBC3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+BAX BCL2L1 {'Annotation': 'PPrel: inhibited by; complex; inhibited by; reaction', 'Direction': '|-', 'Score': 1.0}
+BAX BCL2L11 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+BAX CASP3 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+BAX CASP9 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+BAX DIABLO {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+BAX GSN {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+BAX TP63 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BAX TP73 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+PSMD1 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD1 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD1 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD1 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD1 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD1 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMC2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMC3 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMC4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMC5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD1 STUB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PSMD1 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD1 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+YWHAB AKT2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+YWHAB AKT3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+YWHAB BAD {'Annotation': 'PPrel: inhibited by; complex; input', 'Direction': '|-', 'Score': 1.0}
+YWHAB BCL2L11 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+YWHAB CTNNB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+YWHAB KPNA1 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+YWHAB MAPK1 {'Annotation': 'activate; activated by; catalyze; catalyzed by; complex; inhibited by; input', 'Direction': '->', 'Score': 1.0}
+YWHAB PPP3R1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+YWHAB YWHAG {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+YWHAB YWHAQ {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+YWHAB YWHAZ {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+BAD AKT2 {'Annotation': 'PPrel: inhibition; PPrel: inhibition, phosphorylation; PPrel: phosphorylation; activate', 'Direction': '-', 'Score': 1.0}
+BAD AKT3 {'Annotation': 'PPrel: inhibition; PPrel: inhibition, phosphorylation; PPrel: phosphorylation', 'Direction': '-', 'Score': 1.0}
+BAD AVEN {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BAD BAK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+BAD BCL2L1 {'Annotation': 'PPrel: inhibition; complex; input; predicted', 'Direction': '-|', 'Score': 1.0}
+BAD BCL2L11 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+BAD CASP3 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+BAD FAS {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BAD FASLG {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BAD GZMB {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BAD MAPK1 {'Annotation': 'PPrel: inhibited by, phosphorylated by; activated by', 'Direction': '-', 'Score': 1.0}
+BAD PPP3R1 {'Annotation': 'PPrel: activated by, dephosphorylation; catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BAD TNFSF10 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BAD YWHAG {'Annotation': 'PPrel: inhibited by; complex; input', 'Direction': '|-', 'Score': 1.0}
+BAD YWHAQ {'Annotation': 'PPrel: inhibited by; complex; input', 'Direction': '|-', 'Score': 1.0}
+BAD YWHAZ {'Annotation': 'PPrel: inhibited by; complex; input', 'Direction': '|-', 'Score': 1.0}
+PSMD4 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD4 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD4 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD4 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD4 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD4 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMC2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMC3 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMC4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMC5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMD11 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMD12 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD4 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD4 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP9 AKT2 {'Annotation': 'PPrel: inhibition, phosphorylation; PPrel: phosphorylation', 'Direction': '-', 'Score': 1.0}
+CASP9 AKT3 {'Annotation': 'PPrel: inhibition, phosphorylation; PPrel: phosphorylation', 'Direction': '-', 'Score': 1.0}
+CASP9 APAF1 {'Annotation': 'PPrel: activation; PPrel: binding/association; complex; input', 'Direction': '->', 'Score': 1.0}
+CASP9 APPL1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CASP9 AVEN {'Annotation': 'inhibite', 'Direction': '-|', 'Score': 1.0}
+CASP9 BCL2L1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CASP9 BIRC2 {'Annotation': 'PPrel: inhibition; activate; activated by; inhibite', 'Direction': '<-', 'Score': 1.0}
+CASP9 BIRC3 {'Annotation': 'PPrel: inhibition; activate; activated by; inhibite', 'Direction': '<-', 'Score': 1.0}
+CASP9 CARD8 {'Annotation': 'complex; inhibite; input', 'Direction': '-|', 'Score': 1.0}
+CASP9 CASP3 {'Annotation': 'PPrel: activated by; activated by; catalyzed by', 'Direction': '<-', 'Score': 1.0}
+CASP9 CASP6 {'Annotation': 'PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+CASP9 CASP7 {'Annotation': 'PPrel: activated by; activated by; catalyzed by', 'Direction': '<-', 'Score': 1.0}
+CASP9 DCC {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CASP9 DIABLO {'Annotation': 'activated by; complex; inhibited by; input', 'Direction': '-', 'Score': 1.0}
+CASP9 GZMB {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CASP9 MAPK1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+CASP9 UACA {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CASP9 XIAP {'Annotation': 'PPrel: inhibited by; activate; activated by; complex; inhibited by; input', 'Direction': '->', 'Score': 1.0}
+GSN CASP3 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+MAPT CASP1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MAPT CASP3 {'Annotation': 'PPrel: activation; catalyze', 'Direction': '->', 'Score': 1.0}
+MAPT CASP7 {'Annotation': 'PPrel: activation', 'Direction': '->', 'Score': 1.0}
+MAPT CASP8 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MAPT DNM1L {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MAPT MAPK1 {'Annotation': 'PPrel: phosphorylation', 'Direction': '->', 'Score': 1.0}
+MAPT STUB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CHMP3 CHMP2B {'Annotation': 'complex; input; predicted', 'Direction': '-', 'Score': 1.0}
+CHMP3 CHMP4A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP3 CHMP4C {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP3 CHMP6 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP3 CHMP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP3 MLKL {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+CHMP3 UBA52 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+PSMD2 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD2 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD2 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD2 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD2 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD2 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMC2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMC3 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMC4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMC5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD2 STUB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PSMD2 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD2 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+BCL2L11 BAK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BCL2L11 BCL2L1 {'Annotation': 'PPrel: inhibited by; complex; input', 'Direction': '|-', 'Score': 1.0}
+BCL2L11 CASP3 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+BCL2L11 E2F1 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+BCL2L11 MAPK1 {'Annotation': 'PPrel: inhibited by, phosphorylated by', 'Direction': '|-', 'Score': 1.0}
+BCL2L11 YWHAZ {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+PSMC3 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC3 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC3 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC3 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC3 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC3 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMC2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMC4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMC5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMD5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMD9 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC3 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMC3 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+XIAP AKT2 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+XIAP AKT3 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+XIAP APAF1 {'Annotation': 'activate; activated by; complex; inhibited by; input', 'Direction': '->', 'Score': 1.0}
+XIAP BIRC2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+XIAP BIRC3 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+XIAP CASP1 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+XIAP CASP3 {'Annotation': 'PPrel: inhibited by; activated by; complex; inhibited by; input', 'Direction': '-', 'Score': 1.0}
+XIAP CASP7 {'Annotation': 'PPrel: inhibited by; activated by; complex; inhibited by; input', 'Direction': '-', 'Score': 1.0}
+XIAP CASP8 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+XIAP DIABLO {'Annotation': 'PPrel: inhibition; complex; inhibite; inhibited by; input; predicted; reaction', 'Direction': '|-|', 'Score': 1.0}
+XIAP GZMB {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+XIAP MAGED1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+XIAP RIPK1 {'Annotation': 'PPrel: inhibited, ubiquitination', 'Direction': '|-', 'Score': 1.0}
+XIAP UBA52 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+CASP4 CASP1 {'Annotation': 'PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+CASP4 CASP3 {'Annotation': 'inhibit', 'Direction': '-|', 'Score': 1.0}
+CASP4 STAT3 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+BCL2L1 AKT2 {'Annotation': 'PPrel: activation', 'Direction': '->', 'Score': 1.0}
+BCL2L1 AKT3 {'Annotation': 'PPrel: activation', 'Direction': '->', 'Score': 1.0}
+BCL2L1 APAF1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+BCL2L1 BAK1 {'Annotation': 'PPrel: inhibited by; complex; reaction', 'Direction': '|-', 'Score': 1.0}
+BCL2L1 BBC3 {'Annotation': 'PPrel: inhibition; complex; input', 'Direction': '-|', 'Score': 1.0}
+BCL2L1 BCAP31 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BCL2L1 CFLAR {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BCL2L1 DIABLO {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BCL2L1 DNM1L {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BCL2L1 MAPK1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BCL2L1 STAT3 {'Annotation': 'GErel: expression by; expression regulated by', 'Direction': '<-', 'Score': 1.0}
+BCL2L1 TP63 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BCL2L1 TP73 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BCL2L1 YWHAZ {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+APAF1 AVEN {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+APAF1 BAK1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+APAF1 BIRC2 {'Annotation': 'activate; activated by; inhibited by', 'Direction': '->', 'Score': 1.0}
+APAF1 BIRC3 {'Annotation': 'activate; activated by; inhibited by', 'Direction': '->', 'Score': 1.0}
+APAF1 CARD8 {'Annotation': 'inhibited by', 'Direction': '|-', 'Score': 1.0}
+APAF1 CASP3 {'Annotation': 'PPrel: activation; activate; catalyze', 'Direction': '->', 'Score': 1.0}
+APAF1 CASP6 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+APAF1 CASP7 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+APAF1 DIABLO {'Annotation': 'activated by; complex; inhibited by; input', 'Direction': '-', 'Score': 1.0}
+APAF1 MAPK1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APAF1 UACA {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CLSPN CASP7 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CLSPN YWHAZ {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+PSMA3 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA3 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA3 BIRC3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA3 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA3 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA3 PSMA1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA3 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA3 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 ACIN1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+CASP3 AKT2 {'Annotation': 'PPrel: inhibition, indirect effect', 'Direction': '-|', 'Score': 1.0}
+CASP3 AKT3 {'Annotation': 'PPrel: inhibition, indirect effect', 'Direction': '-|', 'Score': 1.0}
+CASP3 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+CASP3 APPL1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 BCAP31 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CASP3 BIRC2 {'Annotation': 'PPrel: inhibition; catalyzed by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+CASP3 BIRC3 {'Annotation': 'PPrel: inhibition; activate; inhibite', 'Direction': '-', 'Score': 1.0}
+CASP3 CASP1 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+CASP3 CASP5 {'Annotation': 'inhibit', 'Direction': '-|', 'Score': 1.0}
+CASP3 CASP6 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 CASP7 {'Annotation': 'activate; predicted', 'Direction': '->', 'Score': 1.0}
+CASP3 CASP8 {'Annotation': 'PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+CASP3 CDH1 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 CFLAR {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+CASP3 CTNNB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CASP3 DBNL {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 DCC {'Annotation': 'PPrel: activation; catalyze; catalyzed by', 'Direction': '<->', 'Score': 1.0}
+CASP3 DIABLO {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CASP3 DSG1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 DSG3 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 DSP {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 FADD {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CASP3 GAS2 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 GZMB {'Annotation': 'PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+CASP3 LMNB1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CASP3 MAPK1 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+CASP3 PAK2 {'Annotation': 'PPrel: activation; activate; catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 PKP1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 PRKCQ {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 PTK2 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+CASP3 TJP2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 TNFSF10 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CASP3 TRADD {'Annotation': 'PPrel: activated, indirect effect; activated by', 'Direction': '<-', 'Score': 1.0}
+CASP3 UNC5A {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP3 UNC5B {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PRKCQ MAPK1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+PRKCQ STAT3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+GAS2 CASP7 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CHMP7 CHMP2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP7 CHMP4A {'Annotation': 'PPrel: binding/association; complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP7 CHMP4C {'Annotation': 'PPrel: binding/association; complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP7 CHMP6 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP7 MLKL {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+CHMP7 UBA52 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+BIRC3 AKT2 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+BIRC3 AKT3 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+BIRC3 BIRC2 {'Annotation': 'catalyze; catalyzed by; complex; input; reaction', 'Direction': '<->', 'Score': 1.0}
+BIRC3 CASP1 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BIRC3 CASP6 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+BIRC3 CASP7 {'Annotation': 'PPrel: inhibition; activate; inhibite', 'Direction': '-', 'Score': 1.0}
+BIRC3 CASP8 {'Annotation': 'activate; activated by; inhibit; reaction', 'Direction': '<-', 'Score': 1.0}
+BIRC3 CD14 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+BIRC3 CFLAR {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BIRC3 DIABLO {'Annotation': 'PPrel: inhibited by; activated by; complex; inhibit; input; predicted', 'Direction': '-|', 'Score': 1.0}
+BIRC3 FADD {'Annotation': 'PPrel: activation; activate; activated by; complex; inhibite; input; reaction', 'Direction': '<-', 'Score': 1.0}
+BIRC3 FAS {'Annotation': 'activated by; inhibite; reaction', 'Direction': '<-|', 'Score': 1.0}
+BIRC3 FASLG {'Annotation': 'activated by; inhibite; reaction', 'Direction': '<-|', 'Score': 1.0}
+BIRC3 GZMB {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BIRC3 OGT {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BIRC3 PSMA1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMA2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMA5 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMA8 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMB10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMC4 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMC5 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMC6 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMD10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMD11 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMD12 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMD3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMD5 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMD7 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMD9 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSME2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSME4 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 PSMF1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 RIPK1 {'Annotation': 'PPrel: activation; PPrel: inhibition, ubiquitination; PPrel: ubiquitination; activated by; catalyze; complex; inhibit; input', 'Direction': '<-', 'Score': 1.0}
+BIRC3 STAT3 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 STUB1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BIRC3 TICAM1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+BIRC3 TLR4 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+BIRC3 TNFRSF10B {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 TNFSF10 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BIRC3 TRADD {'Annotation': 'activated by; complex; input', 'Direction': '<-', 'Score': 1.0}
+BIRC3 UBA52 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TLR4 BIRC2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TLR4 CASP8 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+TLR4 CD14 {'Annotation': 'PPrel: activation; activate; complex; input', 'Direction': '->', 'Score': 1.0}
+TLR4 FADD {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+TLR4 MAPK1 {'Annotation': 'PPrel: activated, phosphorylation, indirect effect', 'Direction': '<-', 'Score': 1.0}
+TLR4 RIPK1 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+TLR4 TICAM1 {'Annotation': 'PPrel: activated by; PPrel: activated, indirect effect; complex; input', 'Direction': '<-', 'Score': 1.0}
+TLR4 TRADD {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+TLR4 UBA52 {'Annotation': 'catalyze; catalyzed by; input', 'Direction': '<->', 'Score': 1.0}
+AKT2 AKT3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+AKT2 APPL1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+AKT2 BAK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+AKT2 BIRC2 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+AKT2 CASP1 {'Annotation': 'PPrel: inhibition, indirect effect', 'Direction': '-|', 'Score': 1.0}
+AKT2 CDC37 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+AKT2 CTNNB1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+AKT2 FADD {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT2 FAS {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT2 FASLG {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT2 HSP90AA1 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+AKT2 MAPK1 {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+AKT2 OGT {'Annotation': 'PPrel: inhibited glycosylation', 'Direction': '|-', 'Score': 1.0}
+AKT2 PTK2 {'Annotation': 'PPrel: activated, indirect effect', 'Direction': '<-', 'Score': 1.0}
+AKT2 STAT3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT2 YWHAG {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+AKT2 YWHAQ {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+AKT2 YWHAZ {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PSMC2 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC2 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC2 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC2 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC2 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMC4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMC5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMD5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMD9 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSME4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC2 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMC2 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+MLKL CDC37 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+MLKL CHMP2B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+MLKL CHMP4A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+MLKL CHMP4C {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+MLKL CHMP6 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+MLKL HSP90AA1 {'Annotation': 'PPrel: activation; complex; input', 'Direction': '->', 'Score': 1.0}
+SATB1 CASP6 {'Annotation': 'activate; catalyze', 'Direction': '->', 'Score': 1.0}
+SATB1 CTNNB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PSME4 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME4 BIRC2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME4 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME4 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME4 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMD7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME4 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSME4 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CHMP2B CHMP4A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP2B CHMP4C {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP2B CHMP6 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP2B UBA52 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+PTK2 AKT3 {'Annotation': 'PPrel: activated, indirect effect', 'Direction': '<-', 'Score': 1.0}
+PTK2 APC {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PTK2 ARHGAP10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PTK2 CASP6 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+PTK2 CASP7 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PTK2 DCC {'Annotation': 'PPrel: activated by, phosphorylation; PPrel: activation, phosphorylation; complex; input', 'Direction': '<->', 'Score': 1.0}
+PTK2 HSP90AA1 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+PTK2 MAPK1 {'Annotation': 'PPrel: activated, indirect effect; activate; complex; input', 'Direction': '<->', 'Score': 1.0}
+PTK2 RIPK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+PTK2 STAT3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+PTK2 UNC5A {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+PTK2 UNC5B {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+BIRC2 AKT3 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+BIRC2 CASP1 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BIRC2 CASP7 {'Annotation': 'PPrel: inhibition; inhibite', 'Direction': '-|', 'Score': 1.0}
+BIRC2 CASP8 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+BIRC2 CD14 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+BIRC2 CFLAR {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BIRC2 DIABLO {'Annotation': 'PPrel: inhibited by; complex; inhibit; input; predicted', 'Direction': '|-|', 'Score': 1.0}
+BIRC2 E2F1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BIRC2 FADD {'Annotation': 'PPrel: activation; activated by; inhibite', 'Direction': '<-', 'Score': 1.0}
+BIRC2 FAS {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BIRC2 FASLG {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BIRC2 GZMB {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BIRC2 HSP90AA1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BIRC2 OGT {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BIRC2 PSMA1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMA2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMA5 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMA8 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMB10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMC4 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMC5 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMC6 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMD10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMD11 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMD12 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMD3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMD5 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMD7 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMD9 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSME2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 PSMF1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 RIPK1 {'Annotation': 'PPrel: activation; PPrel: inhibition, ubiquitination; PPrel: ubiquitination; activated by; catalyze; complex; inhibit; input', 'Direction': '<-', 'Score': 1.0}
+BIRC2 STUB1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BIRC2 TICAM1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+BIRC2 TNFRSF10B {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 TNFSF10 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+BIRC2 TRADD {'Annotation': 'activated by; complex; input', 'Direction': '<-', 'Score': 1.0}
+BIRC2 UBA52 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MAGED1 UNC5A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TFDP1 CDKN2A {'Annotation': 'inhibit', 'Direction': '-|', 'Score': 1.0}
+TFDP1 E2F1 {'Annotation': 'complex; expression regulates; inhibited by; input; reaction', 'Direction': '|->', 'Score': 1.0}
+TFDP1 TFDP2 {'Annotation': 'activate; inhibit; inhibited by; reaction', 'Direction': '|-', 'Score': 1.0}
+PSMD7 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD7 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD7 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD7 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMD11 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSME2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD7 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD7 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSME2 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME2 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME2 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSME2 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMC5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSME2 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSME2 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+YWHAQ AKT3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+YWHAQ CTNNB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+YWHAQ KPNA1 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+YWHAQ MAPK1 {'Annotation': 'activate; activated by', 'Direction': '<->', 'Score': 1.0}
+YWHAQ PPP3R1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+YWHAQ YWHAG {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+YWHAQ YWHAZ {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+APPL1 AKT3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+APPL1 DCC {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+AKT3 CASP1 {'Annotation': 'PPrel: inhibition, indirect effect', 'Direction': '-|', 'Score': 1.0}
+AKT3 CDC37 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+AKT3 FADD {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT3 FAS {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT3 FASLG {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT3 HSP90AA1 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+AKT3 MAPK1 {'Annotation': 'PPrel: activation, phosphorylation', 'Direction': '->', 'Score': 1.0}
+AKT3 OGT {'Annotation': 'PPrel: inhibited glycosylation', 'Direction': '|-', 'Score': 1.0}
+AKT3 STAT3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+AKT3 YWHAG {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+AKT3 YWHAZ {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TNFRSF10B CASP8 {'Annotation': 'PPrel: indirect effect; activated by; catalyze; complex; input; reaction', 'Direction': '<->', 'Score': 1.0}
+TNFRSF10B CFLAR {'Annotation': 'activated by; complex; inhibite; input; reaction', 'Direction': '<-|', 'Score': 1.0}
+TNFRSF10B FADD {'Annotation': 'PPrel: activated by; complex; input; reaction', 'Direction': '<-', 'Score': 1.0}
+TNFRSF10B FAS {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TNFRSF10B FASLG {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TNFRSF10B OGT {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TNFRSF10B RIPK1 {'Annotation': 'PPrel: activated by; complex; input; reaction', 'Direction': '<-', 'Score': 1.0}
+TNFRSF10B STUB1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TNFRSF10B TNFSF10 {'Annotation': 'PPrel: activated by; complex; input; reaction', 'Direction': '<-', 'Score': 1.0}
+TNFRSF10B TRADD {'Annotation': 'PPrel: activation; complex; input; reaction', 'Direction': '->', 'Score': 1.0}
+UNC5A DAPK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+UNC5A DCC {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PSMC5 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC5 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC5 PAK2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC5 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMA5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMC4 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMD5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMD9 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC5 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC5 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMC5 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+BCAP31 CASP8 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+BCAP31 DNM1L {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+UNC5B DAPK1 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+UNC5B DCC {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+E2F1 CDKN2A {'Annotation': 'inhibit', 'Direction': '-|', 'Score': 1.0}
+E2F1 STAT3 {'Annotation': 'inhibite', 'Direction': '-|', 'Score': 1.0}
+E2F1 TFDP2 {'Annotation': 'activate; complex; inhibit; inhibited by; input; reaction', 'Direction': '|-', 'Score': 1.0}
+E2F1 TP63 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+E2F1 TP73 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+E2F1 YWHAZ {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+DSG1 DSP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DSG1 PKP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DIABLO BAK1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+DIABLO CASP7 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+CASP8 CASP1 {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+CASP8 CASP6 {'Annotation': 'PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+CASP8 CASP7 {'Annotation': 'PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+CASP8 CD14 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+CASP8 CFLAR {'Annotation': 'PPrel: inhibited by; activate; catalyze; complex; inhibited by; input; reaction', 'Direction': '|->', 'Score': 1.0}
+CASP8 FADD {'Annotation': 'PPrel: activated by; PPrel: binding/association; activated by; catalyze; catalyzed by; complex; inhibite; input; reaction', 'Direction': '<-', 'Score': 1.0}
+CASP8 FAS {'Annotation': 'PPrel: activated, indirect effect; catalyze; catalyzed by; complex; input; reaction', 'Direction': '<->', 'Score': 1.0}
+CASP8 FASLG {'Annotation': 'catalyze; catalyzed by; complex; input; reaction', 'Direction': '<->', 'Score': 1.0}
+CASP8 GZMB {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+CASP8 IRF1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CASP8 MAPK1 {'Annotation': 'inhibited by', 'Direction': '|-', 'Score': 1.0}
+CASP8 OGT {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+CASP8 PLEC {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CASP8 RIPK1 {'Annotation': 'PPrel: inhibition; activate; activated by; catalyze; complex; inhibite; inhibited by; input; reaction', 'Direction': '-', 'Score': 1.0}
+CASP8 STUB1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+CASP8 TICAM1 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+CASP8 TNFSF10 {'Annotation': 'activated by; catalyze; complex; input; reaction', 'Direction': '<->', 'Score': 1.0}
+CASP8 TRADD {'Annotation': 'PPrel: activated by; activated by; catalyze; complex; inhibit; inhibited by; input; reaction', 'Direction': '-', 'Score': 1.0}
+DSP DSG3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DSP PKP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+FAS CFLAR {'Annotation': 'activated by; catalyzed by; complex; inhibit; input; reaction', 'Direction': '<-|', 'Score': 1.0}
+FAS CTNNB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+FAS FADD {'Annotation': 'PPrel: activated by; complex; input; predicted; reaction', 'Direction': '<-', 'Score': 1.0}
+FAS FASLG {'Annotation': 'PPrel: activated binding/association; PPrel: activated by; complex; input; reaction', 'Direction': '<-', 'Score': 1.0}
+FAS OGT {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+FAS RIPK1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+FAS STAT3 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+FAS STUB1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+FAS TNFSF10 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+FAS TP63 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+FAS TRADD {'Annotation': 'PPrel: activation; reaction', 'Direction': '->', 'Score': 1.0}
+CARD8 AVEN {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PAK2 ARHGAP10 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PAK2 CASP7 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PAK2 MAPK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+PAK2 PSMA1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMA2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMA5 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMA8 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMB10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMC4 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMC6 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMD10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMD11 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMD12 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMD3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMD5 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMD9 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 PSMF1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PAK2 UBA52 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+SDCBP FLOT2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+GZMB CASP1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+GZMB CASP7 {'Annotation': 'PPrel: activated by; activated by', 'Direction': '<-', 'Score': 1.0}
+GZMB LMNB1 {'Annotation': 'PPrel: inhibition', 'Direction': '-|', 'Score': 1.0}
+PSMA5 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA5 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA5 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMD11 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA5 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA5 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+STAT3 DAPK3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+STAT3 FLOT2 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+STAT3 IRF1 {'Annotation': 'GErel: expression by; expression regulated by', 'Direction': '<-', 'Score': 1.0}
+STAT3 IRF2 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+STAT3 MAPK1 {'Annotation': 'activate; reaction', 'Direction': '->', 'Score': 1.0}
+STAT3 RIPK1 {'Annotation': 'GErel: expression by', 'Direction': '<-', 'Score': 1.0}
+CDH1 CTNNB1 {'Annotation': 'PPrel: activated by; PPrel: activation; PPrel: binding/association; PPrel: dissociation; catalyzed by; complex; input', 'Direction': '<->', 'Score': 1.0}
+CDH1 UBA52 {'Annotation': 'catalyze; complex; input', 'Direction': '->', 'Score': 1.0}
+TICAM1 CD14 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TICAM1 FADD {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+TICAM1 RIPK1 {'Annotation': 'PPrel: activated by; complex; inhibited by; input; reaction', 'Direction': '-', 'Score': 1.0}
+TICAM1 UBA52 {'Annotation': 'catalyze; catalyzed by; input', 'Direction': '<->', 'Score': 1.0}
+YWHAZ CTNNB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+YWHAZ HSP90AA1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.68}
+YWHAZ KPNA1 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+YWHAZ MAPK1 {'Annotation': 'activate; activated by', 'Direction': '<->', 'Score': 1.0}
+YWHAZ PPP3R1 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+YWHAZ YWHAG {'Annotation': 'input; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD11 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD11 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD11 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMC4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMD5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD11 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD11 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+IRF1 IRF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+IRF1 MAPK1 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+IRF1 TNFSF10 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+FASLG CASP7 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+FASLG CFLAR {'Annotation': 'activated by; catalyzed by; complex; inhibit; input; reaction', 'Direction': '<-|', 'Score': 1.0}
+FASLG FADD {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+FASLG OGT {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+FASLG RIPK1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+FASLG STUB1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+FASLG TNFSF10 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+FASLG TRADD {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CDKN2A TP63 {'Annotation': 'activated by; complex; input', 'Direction': '<-', 'Score': 1.0}
+CDKN2A UBA52 {'Annotation': 'inhibite', 'Direction': '-|', 'Score': 1.0}
+CHMP4C CHMP4A {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+CHMP4C CHMP6 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP4C UBA52 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+MAPK1 DAPK1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+MAPK1 FADD {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+MAPK1 HSP90AA1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+MAPK1 TNFSF10 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+MAPK1 YWHAG {'Annotation': 'activate; activated by', 'Direction': '<->', 'Score': 1.0}
+PPP3R1 YWHAG {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMC4 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC4 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC4 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMD12 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMD5 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMD9 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMC4 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC4 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMC4 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD5 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD5 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD5 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMD9 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD5 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD5 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+DAPK1 FADD {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+PSMD9 APC {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD9 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD9 PSMA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD9 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD9 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+APC CTNNB1 {'Annotation': 'PPrel: binding/association; PPrel: inhibition; PPrel: inhibition, phosphorylation; complex; input; predicted', 'Direction': '-|', 'Score': 1.0}
+APC PSMA1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMA2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMA8 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMB10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMC6 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMD10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMD12 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMD3 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC PSMF1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+APC UBA52 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PSMA1 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA1 PSMA2 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA1 PSMA8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA1 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA1 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA1 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA1 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA1 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA1 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA1 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA1 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA1 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA8 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA8 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA8 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA8 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA8 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA8 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA8 PSMD12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA8 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA8 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA8 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA8 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+YWHAG CTNNB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+YWHAG HSP90AA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YWHAG KPNA1 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+PSMD12 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD12 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD12 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD12 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD12 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMD12 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD12 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD12 PSMF1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD12 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD12 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+HSP90AA1 CDC37 {'Annotation': 'catalyze; catalyzed by; complex; input; predicted; reaction', 'Direction': '<->', 'Score': 1.0}
+HSP90AA1 CTNNB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HSP90AA1 KPNA1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.6}
+HSP90AA1 RIPK1 {'Annotation': 'PPrel: activation', 'Direction': '->', 'Score': 1.0}
+HSP90AA1 STUB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+HSP90AA1 UBA52 {'Annotation': 'catalyze; complex; inhibit; input', 'Direction': '-', 'Score': 1.0}
+STUB1 CDC37 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+STUB1 CFLAR {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+STUB1 FADD {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+STUB1 OGT {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+STUB1 RIPK1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+STUB1 TNFSF10 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+STUB1 TRADD {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+STUB1 UBA52 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+CASP7 CASP1 {'Annotation': 'PPrel: activation, indirect effect', 'Direction': '->', 'Score': 1.0}
+CASP7 CASP6 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CASP7 FADD {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+RIPK1 CD14 {'Annotation': 'complex; inhibit; input', 'Direction': '-|', 'Score': 1.0}
+RIPK1 CFLAR {'Annotation': 'complex; inhibit; input; reaction', 'Direction': '-|', 'Score': 1.0}
+RIPK1 DNM1L {'Annotation': 'PPrel: activated by', 'Direction': '<-', 'Score': 1.0}
+RIPK1 FADD {'Annotation': 'PPrel: activated by; PPrel: activation; activate; activated by; complex; inhibited by; input; reaction', 'Direction': '->', 'Score': 1.0}
+RIPK1 OGT {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+RIPK1 PELI1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RIPK1 TNFSF10 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RIPK1 TRADD {'Annotation': 'PPrel: activated by; PPrel: binding/association; activated by; complex; input; reaction', 'Direction': '<-', 'Score': 1.0}
+RIPK1 UBA52 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMF1 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMF1 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMF1 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMF1 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMF1 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMF1 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMF1 PSMD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMF1 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMF1 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+ARHGAP10 CTNNB1 {'Annotation': 'PPrel', 'Direction': '-', 'Score': 1.0}
+TNFSF10 CFLAR {'Annotation': 'activated by; complex; inhibit; input; reaction', 'Direction': '<-|', 'Score': 1.0}
+TNFSF10 FADD {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+TNFSF10 OGT {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TNFSF10 TRADD {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CD14 FADD {'Annotation': 'complex; inhibit; input', 'Direction': '-|', 'Score': 1.0}
+CD14 UBA52 {'Annotation': 'catalyze; catalyzed by; input', 'Direction': '<->', 'Score': 1.0}
+BAK1 TP63 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+BAK1 TP73 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+CDC37 UBA52 {'Annotation': 'catalyze; complex; inhibite; input', 'Direction': '-', 'Score': 1.0}
+PSMD3 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMD3 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD3 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD3 PSMB10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD3 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD3 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMD3 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMD3 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CHMP6 CHMP4A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHMP6 UBA52 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+BBC3 TP73 {'Annotation': 'GErel: expression by', 'Direction': '<-', 'Score': 1.0}
+PSMB10 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMB10 PSMA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB10 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB10 PSMC6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB10 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB10 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB10 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA2 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMA2 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA2 PSMC6 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+PSMA2 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMA2 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMA2 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+TP63 CTNNB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TP63 PPP1R13B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TP63 TP73 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+PKP1 DSG3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+CASP6 CTNNB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CASP6 LMNB1 {'Annotation': 'PPrel: inhibition; activate; catalyze', 'Direction': '-', 'Score': 1.0}
+PSMC6 CTNNB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+PSMC6 PSMB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC6 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMC6 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMC6 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+CFLAR FADD {'Annotation': 'PPrel: binding/association; activated by; catalyzed by; complex; inhibit; input; reaction', 'Direction': '<-|', 'Score': 1.0}
+CFLAR OGT {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+CFLAR TRADD {'Annotation': 'complex; inhibit; input; reaction', 'Direction': '-|', 'Score': 1.0}
+TRADD FADD {'Annotation': 'PPrel: activated by; PPrel: binding/association; activated by; complex; inhibited by; input; reaction', 'Direction': '-', 'Score': 1.0}
+TRADD OGT {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CTNNB1 PSMB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+CTNNB1 PSMD10 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+CTNNB1 UBA52 {'Annotation': 'catalyze; complex; input', 'Direction': '->', 'Score': 1.0}
+PPP1R13B TP73 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PSMB1 PSMD10 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PSMB1 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PSMB1 UBA52 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+OGT FADD {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+UBA52 CHMP4A {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+UBA52 PSMD10 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+UBA52 TP73 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+PSMD10 TP73 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}

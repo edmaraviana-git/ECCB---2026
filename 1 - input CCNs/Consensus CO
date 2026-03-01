@@ -1,0 +1,1297 @@
+SETD1A ASH2L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SETD1A EP300 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SETD1A HDAC1 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+SETD1A KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SETD1A PHF8 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SETD1A PRMT1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SETD1A PRMT6 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+SETD1A RBBP5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SETD1A WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP3 ELP2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP3 ELP4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP3 ELP5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP3 ELP6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP3 IKBKAP {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.67}
+KDM4B KAT5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CCND1 ATF2 {'Annotation': 'GErel: expression; expression regulates', 'Direction': '->', 'Score': 1.0}
+CCND1 CDK4 {'Annotation': 'PPrel: activated by; PPrel: activation; PPrel: binding/association; complex; inhibited by; input; reaction', 'Direction': '->', 'Score': 1.0}
+CCND1 CREBBP {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+CCND1 EHMT1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CCND1 EP300 {'Annotation': 'expression regulated by; input; reaction', 'Direction': '<-', 'Score': 1.0}
+CCND1 HDAC1 {'Annotation': 'activate; inhibit', 'Direction': '-', 'Score': 1.0}
+CCND1 HDAC3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+CCND1 KAT2B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CCND1 NCOA1 {'Annotation': 'GErel: expression by', 'Direction': '<-', 'Score': 1.0}
+CCND1 NFKB1 {'Annotation': 'GErel: expression by; expression regulated by', 'Direction': '<-', 'Score': 1.0}
+CCND1 NFKB2 {'Annotation': 'GErel: expression by', 'Direction': '<-', 'Score': 1.0}
+CCND1 PRMT5 {'Annotation': 'activated by; complex', 'Direction': '<-', 'Score': 1.0}
+CCND1 RELA {'Annotation': 'GErel: expression by; expression regulated by', 'Direction': '<-', 'Score': 1.0}
+CCND1 SMARCA2 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CCND1 SMARCA4 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CCND1 SMARCB1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CCND1 SMARCC1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CCND1 SMARCC2 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CCND1 SUV39H1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+CCND1 WDR77 {'Annotation': 'activated by; complex', 'Direction': '<-', 'Score': 1.0}
+ING3 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 ACTL6A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 EP300 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+ING3 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 EPC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 KAT5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 MORF4L2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 MRGBP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 MSL3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.6}
+ING3 RUVBL1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 RUVBL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 TRRAP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ING3 YEATS4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 ATXN7L3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 CARM1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TAF9 CREBBP {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TAF9 EP300 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TAF9 HDAC2 {'Annotation': 'activated by; expression regulates; inhibite', 'Direction': '<-', 'Score': 1.0}
+TAF9 KAT2A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TAF9 KAT2B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TAF9 NCOA2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TAF9 PRMT1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TAF9 RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+TAF9 SAP130 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 SMARCA4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TAF9 SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 SUPT3H {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TAF9 SUPT7L {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TAF9 TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 TADA2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 TADA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 TAF5L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF9 TRRAP {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TAF9 USP22 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2A DR1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2A KAT2A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2A KAT2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2A MBIP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2A TADA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2A WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2A YEATS2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2A ZZZ3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KDM1A ACTB {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A ARID4A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A ARID4B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A BRMS1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A CHD3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A CHD4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A CLOCK {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A EHMT2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A EZH2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.98}
+KDM1A HDAC1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A HDAC2 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A HDAC3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A KANSL1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A KDM4C {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+KDM1A MBD3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A MCRS1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A MTA2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A PHF21A {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A PRDM16 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+KDM1A RBBP4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A RBBP7 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A RCOR1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A REST {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A SMARCA4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A SMARCC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.98}
+KDM1A SMARCD1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.98}
+KDM1A SUDS3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM1A SUV39H1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A TADA3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM1A YEATS4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SMYD2 HDAC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+ELP5 ELP2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP5 ELP4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP5 ELP6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 ACTL6A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RUVBL1 BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 CREBBP {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RUVBL1 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 EP300 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RUVBL1 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 EPC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 KAT5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RUVBL1 MCRS1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 MORF4L2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 MRGBP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 NFKB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RUVBL1 NFKB2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RUVBL1 RBBP4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 RBBP7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 RUVBL2 {'Annotation': 'complex; predicted; reaction', 'Direction': '-', 'Score': 1.0}
+RUVBL1 TRRAP {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RUVBL1 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL1 YEATS4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SETD6 NFKB1 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+SETD6 NFKB2 {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+SETD6 RELA {'Annotation': 'catalyzed by', 'Direction': '<-', 'Score': 1.0}
+MBD3 ARID4A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 ARID4B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+MBD3 BRMS1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 CHD3 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 CHD4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 DNMT3A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+MBD3 EHMT2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+MBD3 GATAD2A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+MBD3 GATAD2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+MBD3 HDAC1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 HDAC2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 HDAC3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 MECOM {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 MTA1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 MTA2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 MTA3 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 PHF21A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 RBBP4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 RBBP7 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 RCOR1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MBD3 SUDS3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KANSL3 HCFC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL3 KANSL1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL3 KANSL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL3 KAT8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL3 MCRS1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL3 OGT {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL3 PHF20 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL3 WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL1 HCFC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL1 KANSL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL1 KAT8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL1 MCRS1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL1 OGT {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL1 PHF20 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL1 WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+GATAD2A CHD3 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2A CHD4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2A GATAD2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2A HDAC1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2A HDAC2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2A KAT2B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+GATAD2A MTA2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2A PRMT5 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+GATAD2A RBBP4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2A RBBP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2A WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+NSD1 RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MSL1 KAT8 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+MSL1 MSL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MSL1 MSL3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP ACTL6A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TRRAP ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP ATXN7L3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP CREBBP {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TRRAP DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP EP300 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TRRAP EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP EPC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP HDAC1 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+TRRAP HDAC2 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+TRRAP KAT2A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP KAT5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TRRAP MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP MORF4L2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP MRGBP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP RUVBL2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TRRAP SAP130 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP SUPT3H {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TRRAP SUPT7L {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+TRRAP TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP TADA2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP TADA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP TAF5L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP USP22 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TRRAP YEATS4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KMT2B ASH2L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KMT2B EP300 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2B HDAC1 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+KMT2B KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2B PRMT1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2B PRMT6 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+KMT2B RBBP5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KMT2B WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+CREBBP ACTL6A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP ARID1A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP ASH2L {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP ATF2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+CREBBP CARM1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP CDK4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP CLOCK {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP EED {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+CREBBP EP300 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP EP400 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP EZH2 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+CREBBP HDAC1 {'Annotation': 'activate; activated by; inhibited by', 'Direction': '->', 'Score': 1.0}
+CREBBP HDAC10 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+CREBBP HDAC2 {'Annotation': 'activate; complex; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CREBBP HDAC3 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CREBBP JADE1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+CREBBP KAT2A {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP KAT2B {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP KAT5 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP KDM6A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP KMT2A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CREBBP KMT2C {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP KMT2D {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP MECOM {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CREBBP NCOA1 {'Annotation': 'complex; inhibited by; input; reaction', 'Direction': '|-', 'Score': 1.0}
+CREBBP NCOA2 {'Annotation': 'activate; complex; inhibited by; input; reaction', 'Direction': '|->', 'Score': 1.0}
+CREBBP NCOR1 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CREBBP NCOR2 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CREBBP NFKB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP PRMT1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP RBBP4 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CREBBP RBBP5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP RBBP7 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CREBBP RELA {'Annotation': 'activate; complex; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CREBBP RUVBL2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCA2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCA4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCC1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCC2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCD1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCD2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCD3 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP SMARCE1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CREBBP SUPT3H {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP SUPT7L {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP SUZ12 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+CREBBP TADA2B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CREBBP TBL1X {'Annotation': 'complex; inhibited by; input; reaction', 'Direction': '|-', 'Score': 1.0}
+CREBBP TBL1XR1 {'Annotation': 'complex; inhibited by; input; reaction', 'Direction': '|-', 'Score': 1.0}
+CREBBP WDR5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PHF21A ARID4A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A ARID4B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A BRMS1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A CHD3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A CHD4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A HDAC1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A HDAC2 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A MTA2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A RBBP4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A RBBP7 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A RCOR1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PHF21A SUDS3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PRMT5 CDK4 {'Annotation': 'activated by; complex', 'Direction': '<-', 'Score': 1.0}
+PRMT5 CHD3 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+PRMT5 CHD4 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+PRMT5 DNMT3A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PRMT5 EP300 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT5 EZH2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+PRMT5 GATAD2B {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+PRMT5 HDAC1 {'Annotation': 'input; reaction', 'Direction': '-', 'Score': 1.0}
+PRMT5 HDAC2 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+PRMT5 JAK2 {'Annotation': 'catalyze', 'Direction': '->', 'Score': 1.0}
+PRMT5 MTA2 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+PRMT5 RBBP4 {'Annotation': 'input; reaction', 'Direction': '-', 'Score': 1.0}
+PRMT5 RBBP7 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+PRMT5 SMARCA2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+PRMT5 SMARCA4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+PRMT5 SMARCB1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+PRMT5 SMARCC1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+PRMT5 SMARCC2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+PRMT5 WDR77 {'Annotation': 'complex; inhibit; input; reaction', 'Direction': '-|', 'Score': 1.0}
+EPC1 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 ACTL6A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 EED {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EPC1 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 EZH2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EPC1 KAT5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 MORF4L2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 MRGBP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 RBBP4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EPC1 RBBP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EPC1 RUVBL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 SUZ12 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EPC1 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EPC1 YEATS4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PRMT1 ASH2L {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 CARM1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 EP300 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 HDAC1 {'Annotation': 'activated by; inhibit; inhibited by', 'Direction': '-|', 'Score': 1.0}
+PRMT1 HDAC2 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+PRMT1 KAT2A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PRMT1 KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 KAT5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 KMT2A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 KMT2C {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 KMT2D {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 KMT2E {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 NCOA1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 PRMT6 {'Annotation': 'activate; inhibite; inhibited by', 'Direction': '|-', 'Score': 1.0}
+PRMT1 RBBP5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+PRMT1 TADA2B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+PRMT1 WDR5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2E ASH2L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KMT2E EP300 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2E HCFC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KMT2E HDAC1 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+KMT2E KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2E OGT {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KMT2E PRMT6 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+KMT2E RBBP5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KMT2E SMARCA4 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+KMT2E SMARCB1 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+KMT2E WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KDM5C REST {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+EZH2 AEBP2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EZH2 ASH2L {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+EZH2 CLOCK {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+EZH2 DNMT3A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EZH2 EED {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EZH2 EP300 {'Annotation': 'expression regulates; input', 'Direction': '->', 'Score': 1.0}
+EZH2 HDAC1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+EZH2 HDAC2 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+EZH2 HDAC3 {'Annotation': 'activated by; complex', 'Direction': '<-', 'Score': 1.0}
+EZH2 KAT7 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+EZH2 KDM6A {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EZH2 KMT2C {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EZH2 KMT2D {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EZH2 NCOR1 {'Annotation': 'activated by; complex', 'Direction': '<-', 'Score': 1.0}
+EZH2 NCOR2 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+EZH2 OGT {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+EZH2 RBBP4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EZH2 RBBP5 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EZH2 RBBP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EZH2 SUV39H1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+EZH2 SUZ12 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EZH2 TBL1X {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+EZH2 TBL1XR1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+EZH2 WDR5 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EP300 ACTB {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+EP300 ACTL6A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 ARID1A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EP300 ARID5B {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+EP300 ASH2L {'Annotation': 'catalyze; complex; expression regulated by; input', 'Direction': '<->', 'Score': 1.0}
+EP300 ATF2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EP300 CARM1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EP300 CDK4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 CLOCK {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 EED {'Annotation': 'expression regulated by; input', 'Direction': '<-', 'Score': 1.0}
+EP300 EP400 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EP300 HCFC1 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+EP300 HDAC1 {'Annotation': 'activate; expression regulates; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+EP300 HDAC2 {'Annotation': 'activate; complex; expression regulates; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+EP300 HDAC3 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+EP300 KAT2A {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EP300 KAT2B {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EP300 KAT5 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 KAT6A {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+EP300 KDM5A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.92}
+EP300 KDM6A {'Annotation': 'catalyzed by; complex; input', 'Direction': '<-', 'Score': 1.0}
+EP300 KDM7A {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+EP300 KMT2A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EP300 KMT2C {'Annotation': 'catalyzed by; complex; input', 'Direction': '<-', 'Score': 1.0}
+EP300 KMT2D {'Annotation': 'catalyzed by; complex; input', 'Direction': '<-', 'Score': 1.0}
+EP300 NCOA1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EP300 NCOA2 {'Annotation': 'activate; complex; input; reaction', 'Direction': '->', 'Score': 1.0}
+EP300 NCOR1 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+EP300 NCOR2 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+EP300 NFKB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EP300 PRMT6 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+EP300 RBBP4 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+EP300 RBBP5 {'Annotation': 'catalyzed by; complex; input', 'Direction': '<-', 'Score': 1.0}
+EP300 RBBP7 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+EP300 RELA {'Annotation': 'activate; complex; input; predicted', 'Direction': '->', 'Score': 1.0}
+EP300 REST {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+EP300 RUVBL2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 SMARCA2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EP300 SMARCA4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EP300 SMARCB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EP300 SMARCC1 {'Annotation': 'complex; expression regulates; input; reaction', 'Direction': '->', 'Score': 1.0}
+EP300 SMARCC2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 SMARCD1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EP300 SMARCD2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EP300 SMARCD3 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EP300 SMARCE1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EP300 SMYD3 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+EP300 SUPT3H {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 SUPT7L {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 SUV39H1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+EP300 SUZ12 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+EP300 TADA2B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 TADA3 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+EP300 TBL1X {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+EP300 TBL1XR1 {'Annotation': 'expression regulates; reaction', 'Direction': '->', 'Score': 1.0}
+EP300 WDR5 {'Annotation': 'catalyzed by; complex; input', 'Direction': '<-', 'Score': 1.0}
+AEBP2 EED {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+AEBP2 JMJD6 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+AEBP2 RBBP4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+AEBP2 RBBP7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+AEBP2 SUZ12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KDM5B EED {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KDM5B HDAC2 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+KDM5B SMARCC1 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+KDM4A KAT5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+JADE1 KAT7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP ACTL6A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP KAT5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP MORF4L2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP RUVBL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MRGBP YEATS4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCA2 ACTB {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 ACTL6A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 ACTL6B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 ARID1A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 ARID1B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 ARID2 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 CDK4 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+SMARCA2 HDAC2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+SMARCA2 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 PBRM1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SMARCA2 REST {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SMARCA2 SMARCB1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+SMARCA2 SMARCC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCA2 SMARCC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCA2 SMARCD1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 SMARCD2 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 SMARCD3 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA2 SMARCE1 {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCA2 WDR77 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+NFKB1 CDK4 {'Annotation': 'GErel: expression by', 'Direction': '<-', 'Score': 1.0}
+NFKB1 EHMT1 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+NFKB1 EHMT2 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+NFKB1 HDAC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+NFKB1 HDAC2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+NFKB1 HDAC3 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+NFKB1 JAK2 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+NFKB1 NFKB2 {'Annotation': 'GErel: expression; expression regulates', 'Direction': '->', 'Score': 1.0}
+NFKB1 RELA {'Annotation': 'GErel: expression; PPrel: binding/association; PPrel: inhibition; complex; input', 'Direction': '-', 'Score': 1.0}
+NFKB1 RUVBL2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+NFKB1 SMARCE1 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+KDM5A CLOCK {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+KDM5A HDAC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+KDM5A SUZ12 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+YEATS4 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YEATS4 ACTL6A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YEATS4 BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YEATS4 CLOCK {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+YEATS4 DMAP1 {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+YEATS4 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YEATS4 KAT5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YEATS4 MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YEATS4 MORF4L2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YEATS4 RCOR1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+YEATS4 RUVBL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+YEATS4 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DR1 KAT2A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DR1 KAT2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DR1 MBIP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DR1 MECOM {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.57}
+DR1 TADA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DR1 WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DR1 YEATS2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+DR1 ZZZ3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EED ACTL6A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.92}
+EED ASH2L {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+EED DNMT3A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EED HDAC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+EED HDAC2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.54}
+EED HDAC3 {'Annotation': 'activated by; complex', 'Direction': '<-', 'Score': 1.0}
+EED KDM6A {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EED KMT2C {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EED KMT2D {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EED NCOR1 {'Annotation': 'activated by; complex', 'Direction': '<-', 'Score': 1.0}
+EED NCOR2 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+EED RBBP4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EED RBBP5 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+EED RBBP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EED SUZ12 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EED TBL1X {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+EED TBL1XR1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+EED WDR5 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+BRMS1 ARID4A {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 ARID4B {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 CHD3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 CHD4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 HDAC1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 HDAC2 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 HDAC3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BRMS1 MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 MTA2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 RBBP4 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 RBBP7 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 RCOR1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BRMS1 REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+BRMS1 SMARCE1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+BRMS1 SUDS3 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ACTL6A ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A ARID1A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A ARID1B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A ARID2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A KAT5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+ACTL6A KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6A KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6A MCRS1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A MORF4L2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A PBRM1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A RBBP4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.92}
+ACTL6A RUVBL2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+ACTL6A SMARCA4 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6A SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6A SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6A SMARCC2 {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A SMARCD1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A SMARCD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A SMARCD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6A WDR77 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.92}
+BRWD1 SMARCA4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+MORF4L2 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L2 BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L2 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L2 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L2 HDAC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MORF4L2 KAT5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L2 MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L2 RUVBL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L2 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL2 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL2 ATF2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RUVBL2 BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL2 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL2 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL2 HDAC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RUVBL2 KAT5 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RUVBL2 MORF4L1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RUVBL2 RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RUVBL2 USP22 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.69}
+RUVBL2 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MCRS1 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MCRS1 HCFC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MCRS1 KANSL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MCRS1 KAT7 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MCRS1 KAT8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MCRS1 OGT {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MCRS1 PHF20 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MCRS1 WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MECOM ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+MECOM CHD3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MECOM CHD4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MECOM HDAC1 {'Annotation': 'PPrel: activated by; reaction', 'Direction': '<-', 'Score': 1.0}
+MECOM HDAC2 {'Annotation': 'PPrel: activated by; reaction', 'Direction': '<-', 'Score': 1.0}
+MECOM HDAC3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MECOM KAT2B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MECOM MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MECOM MTA2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MECOM MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MECOM RBBP4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MECOM RBBP7 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MECOM SUV39H1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+HAT1 RBBP4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HAT1 RBBP7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+CHD3 ARID4A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 ARID4B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+CHD3 CHD4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 EHMT2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHD3 GATAD2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHD3 HDAC1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 HDAC2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 HDAC3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 MTA1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 MTA2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 MTA3 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 RBBP4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 RBBP7 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 RCOR1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 SUDS3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD3 WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+SUV39H2 ATF7IP {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+SUV39H2 SETDB1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+SMARCD1 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 ACTL6B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 ARID1A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 ARID1B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 ARID2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD1 KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD1 PBRM1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 SMARCA4 {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD1 SMARCC1 {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 SMARCC2 {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD1 TADA2B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.54}
+SMYD3 HDAC2 {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+SMARCC2 ACTB {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCC2 ACTL6B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC2 ARID1A {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCC2 ARID1B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC2 ARID2 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC2 ATF2 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+SMARCC2 CDK4 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+SMARCC2 KAT2B {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+SMARCC2 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC2 KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC2 KDM6B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+SMARCC2 PBRM1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC2 RCOR1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SMARCC2 RELA {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+SMARCC2 REST {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SMARCC2 SMARCA4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCC2 SMARCB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCC2 SMARCC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCC2 SMARCD2 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC2 SMARCD3 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC2 SMARCE1 {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCC2 WDR77 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+EHMT1 EHMT2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EHMT1 PRDM16 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+EHMT1 RELA {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+BRPF1 KAT6A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+BRPF1 KAT6B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+BRPF1 RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+RCOR1 ARID4A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 ARID4B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 CHD4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 CLOCK {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RCOR1 HDAC1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 HDAC2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 MTA2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 RBBP4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 RBBP7 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 REST {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+RCOR1 SMARCA4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RCOR1 SMARCE1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RCOR1 SUDS3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KDM6B SMARCA4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+KDM6B SMARCC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+MORF4L1 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L1 BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L1 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L1 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L1 HDAC2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MORF4L1 KAT5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MORF4L1 KAT8 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+MORF4L1 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 ARID4B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 ATXN7L3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 HDAC1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SAP130 HDAC2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SAP130 KAT2A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 SUDS3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 SUPT3H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 TADA2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 TADA3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 TAF5L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SAP130 USP22 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 ATXN7L3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 KAT2A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 KAT2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 MBIP {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 SUPT3H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 TADA2B {'Annotation': 'complex; predicted', 'Direction': '-', 'Score': 1.0}
+TADA3 TAF5L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 USP22 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 YEATS2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA3 ZZZ3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+HDAC3 ARID1B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+HDAC3 ASH2L {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+HDAC3 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+HDAC3 CARM1 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+HDAC3 CHD4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+HDAC3 CLOCK {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+HDAC3 HDAC1 {'Annotation': 'input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC3 HDAC10 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+HDAC3 HDAC2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+HDAC3 KDM6A {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+HDAC3 KMT2C {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+HDAC3 KMT2D {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+HDAC3 MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+HDAC3 MTA2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+HDAC3 MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+HDAC3 NCOA1 {'Annotation': 'activated by; inhibit; input', 'Direction': '<-|', 'Score': 1.0}
+HDAC3 NCOA2 {'Annotation': 'activated by; inhibit; input', 'Direction': '<-|', 'Score': 1.0}
+HDAC3 NCOR1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC3 NCOR2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC3 RBBP4 {'Annotation': 'activate; complex; input; reaction', 'Direction': '->', 'Score': 1.0}
+HDAC3 RBBP5 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+HDAC3 RBBP7 {'Annotation': 'activate; complex; reaction', 'Direction': '->', 'Score': 1.0}
+HDAC3 RELA {'Annotation': 'activate; input', 'Direction': '->', 'Score': 1.0}
+HDAC3 SMARCA4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+HDAC3 SMARCD3 {'Annotation': 'activated by; inhibit; input', 'Direction': '<-|', 'Score': 1.0}
+HDAC3 SUV39H1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HDAC3 SUZ12 {'Annotation': 'activate; complex', 'Direction': '->', 'Score': 1.0}
+HDAC3 TBL1X {'Annotation': 'activated by; complex; inhibit; input', 'Direction': '<-|', 'Score': 1.0}
+HDAC3 TBL1XR1 {'Annotation': 'activated by; complex; inhibit; input', 'Direction': '<-|', 'Score': 1.0}
+HDAC3 WDR5 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+ACTL6B ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6B ARID1A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6B ARID1B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6B ARID2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6B KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6B KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6B PBRM1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6B REST {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+ACTL6B SMARCA4 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6B SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6B SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTL6B SMARCD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6B SMARCD3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTL6B SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RBBP5 ASH2L {'Annotation': 'complex; input; predicted; reaction', 'Direction': '-', 'Score': 1.0}
+RBBP5 HDAC1 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+RBBP5 KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+RBBP5 KDM6A {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RBBP5 KMT2A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+RBBP5 KMT2C {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RBBP5 KMT2D {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RBBP5 NCOR1 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+RBBP5 PRMT6 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+RBBP5 RBBP4 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+RBBP5 RBBP7 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+RBBP5 SUZ12 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+RBBP5 WDR5 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+SMARCD3 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD3 ARID1A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD3 ARID1B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD3 ARID2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD3 CLOCK {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+SMARCD3 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD3 KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD3 NCOA1 {'Annotation': 'inhibit; reaction', 'Direction': '-|', 'Score': 1.0}
+SMARCD3 NCOA2 {'Annotation': 'inhibit; reaction', 'Direction': '-|', 'Score': 1.0}
+SMARCD3 NCOR1 {'Annotation': 'activated by; inhibit; input', 'Direction': '<-|', 'Score': 1.0}
+SMARCD3 NCOR2 {'Annotation': 'activated by; inhibite; input', 'Direction': '<-|', 'Score': 1.0}
+SMARCD3 PBRM1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD3 SMARCA4 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD3 SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD3 SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD3 SMARCD2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.92}
+SMARCD3 SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD3 TBL1X {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+SMARCD3 TBL1XR1 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+CHD4 ARID4A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 ARID4B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+CHD4 EHMT2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHD4 GATAD2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CHD4 HDAC1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 HDAC2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 MTA1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 MTA2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 MTA3 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 RBBP4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 RBBP7 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 SUDS3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CHD4 WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+HDAC1 ARID1A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+HDAC1 ARID4A {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 ARID4B {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 ARID5B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HDAC1 ASH2L {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+HDAC1 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+HDAC1 CDK4 {'Annotation': 'activate; inhibit; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 EHMT2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC1 GATAD2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC1 HCFC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HDAC1 HDAC2 {'Annotation': 'complex; expression regulated by; input; reaction', 'Direction': '<-', 'Score': 1.0}
+HDAC1 JAK2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+HDAC1 KAT2B {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+HDAC1 KAT5 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+HDAC1 KMT2A {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+HDAC1 KMT2C {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+HDAC1 KMT2D {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+HDAC1 MTA1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 MTA2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 MTA3 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 NCOR1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC1 NCOR2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC1 NFKB2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HDAC1 PRDM16 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HDAC1 PRMT6 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC1 RBBP4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 RBBP7 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 RELA {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+HDAC1 REST {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 SETDB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HDAC1 SMARCA4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+HDAC1 SUDS3 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC1 SUV39H1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HDAC1 SUZ12 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+HDAC1 TAF6L {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HDAC1 TBL1X {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC1 TBL1XR1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC1 WDR5 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+HDAC1 WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+ATF7IP SETDB1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+ATF7IP SETDB2 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+ATF7IP SUV39H1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+KAT5 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT5 ARID1B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+KAT5 ATF2 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+KAT5 BRD8 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT5 CARM1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KAT5 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT5 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT5 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT8 HCFC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT8 KANSL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT8 KMT2A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KAT8 MSL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT8 MSL3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT8 OGT {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT8 PHF20 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT8 WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUZ12 ASH2L {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+SUZ12 DNMT3A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SUZ12 KDM6A {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+SUZ12 KMT2C {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+SUZ12 KMT2D {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+SUZ12 NCOR1 {'Annotation': 'activate; complex', 'Direction': '->', 'Score': 1.0}
+SUZ12 NCOR2 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+SUZ12 RBBP4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SUZ12 RBBP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SUZ12 TBL1X {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+SUZ12 TBL1XR1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+SUZ12 WDR5 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+MTA2 ARID4A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 ARID4B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+MTA2 CLOCK {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+MTA2 EHMT2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+MTA2 GATAD2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+MTA2 HDAC2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 RBBP4 {'Annotation': 'complex; input; predicted; reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 RBBP7 {'Annotation': 'complex; input; predicted; reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 SUDS3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MTA2 WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+ARID2 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ARID2 PBRM1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ARID2 SMARCA4 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID2 SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID2 SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID2 SMARCD2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ARID2 SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+BRD8 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+BRD8 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+BRD8 EP400 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+BRD8 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+HDAC10 HDAC2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.97}
+HDAC10 NCOR1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC10 NCOR2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC10 TBL1X {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC10 TBL1XR1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+ARID4B ARID4A {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ARID4B HDAC2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+ARID4B MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+ARID4B MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+ARID4B RBBP4 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ARID4B RBBP7 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ARID4B REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+ARID4B SUDS3 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+KDM1B HCFC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SETDB2 SETDB1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+ARID4A HDAC2 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ARID4A MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+ARID4A MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+ARID4A RBBP4 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ARID4A RBBP7 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ARID4A REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+ARID4A SUDS3 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+CARM1 CLOCK {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CARM1 EHMT2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CARM1 JMJD6 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CARM1 KAT2A {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CARM1 KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+CARM1 NCOA1 {'Annotation': 'complex; inhibited by; input; reaction', 'Direction': '|-', 'Score': 1.0}
+CARM1 NCOA2 {'Annotation': 'complex; inhibited by; input; reaction', 'Direction': '|-', 'Score': 1.0}
+CARM1 NCOR1 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CARM1 NCOR2 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+CARM1 RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CARM1 SMARCC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CARM1 TADA2B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CARM1 TBL1X {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+CARM1 TBL1XR1 {'Annotation': 'complex; inhibited by; input', 'Direction': '|-', 'Score': 1.0}
+PHF8 HCFC1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+EP400 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EP400 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+EP400 VPS72 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL2 HCFC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL2 OGT {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL2 PHF20 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KANSL2 WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+HCFC1 ASH2L {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HCFC1 HDAC2 {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+HCFC1 OGT {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+HCFC1 PHF20 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+HCFC1 SETD7 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HCFC1 SUDS3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+HCFC1 WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MBIP KAT2A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MBIP KAT2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MBIP WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MBIP YEATS2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+MBIP ZZZ3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT3H ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT3H ATXN7L3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT3H KAT2A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SUPT3H SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT3H SUPT7L {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+SUPT3H TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT3H TADA2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT3H TAF5L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT3H TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT3H USP22 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A ACTB {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+KAT2A ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A ATXN7L3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A CDK4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KAT2A HDAC2 {'Annotation': 'activated by; inhibit', 'Direction': '<-|', 'Score': 1.0}
+KAT2A KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KAT2A KAT6A {'Annotation': 'expression regulates', 'Direction': '->', 'Score': 1.0}
+KAT2A NCOA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A NCOA2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+KAT2A SMARCA4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KAT2A SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A SUPT7L {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KAT2A TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A TADA2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A TAF5L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A USP22 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A YEATS2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2A ZZZ3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7L3 ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7L3 SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7L3 SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7L3 TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7L3 TADA2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7L3 TAF5L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7L3 TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7L3 USP22 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+NFKB2 JAK2 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+NFKB2 RELA {'Annotation': 'GErel: expression by; activate; complex; expression regulates; inhibited by', 'Direction': '->', 'Score': 1.0}
+KMT2A ASH2L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KMT2A CLOCK {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+KMT2A HDAC2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KMT2A KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2A KAT6A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KMT2A PRMT6 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+KMT2A WDR5 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+NCOR2 HDAC2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+NCOR2 NCOA1 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+NCOR2 NCOA2 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+NCOR2 NCOR1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+NCOR2 RBBP4 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+NCOR2 RBBP7 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+NCOR2 TBL1X {'Annotation': 'activated by; complex; input', 'Direction': '<-', 'Score': 1.0}
+NCOR2 TBL1XR1 {'Annotation': 'activated by; complex; input', 'Direction': '<-', 'Score': 1.0}
+TBL1X CLOCK {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+TBL1X NCOA1 {'Annotation': 'complex; inhibite; inhibited by; input; reaction', 'Direction': '|-|', 'Score': 1.0}
+TBL1X NCOA2 {'Annotation': 'complex; inhibite; inhibited by; input; reaction', 'Direction': '|-|', 'Score': 1.0}
+TBL1X NCOR1 {'Annotation': 'activated by; complex; inhibite; input', 'Direction': '<-|', 'Score': 1.0}
+TBL1X RBBP4 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TBL1X RBBP7 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TBL1X TBL1XR1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+DNMT3A EHMT2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+DNMT3A RBBP4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+DNMT3A RBBP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+DNMT3A REST {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+DNMT3A SETDB1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.7}
+PHF2 ARID5B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+WDR5 ASH2L {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+WDR5 KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+WDR5 KAT6A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+WDR5 KDM6A {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+WDR5 KMT2C {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+WDR5 KMT2D {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+WDR5 NCOR1 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+WDR5 OGT {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+WDR5 PHF20 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+WDR5 PRMT6 {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+WDR5 RBBP4 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+WDR5 RBBP7 {'Annotation': 'catalyzed by; input', 'Direction': '<-', 'Score': 1.0}
+WDR5 YEATS2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+WDR5 ZZZ3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUV39H1 CDK4 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+SUV39H1 HDAC2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.99}
+SUV39H1 PRMT6 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SUV39H1 RBBP4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SUV39H1 SETDB1 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+PRMT6 ASH2L {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+PRMT6 KAT2B {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+PRMT6 KMT2C {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+PRMT6 KMT2D {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+KMT2D ASH2L {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+KMT2D KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2D KDM6A {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+KMT2D KMT2C {'Annotation': 'input; reaction', 'Direction': '-', 'Score': 1.0}
+KMT2D NCOR1 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+KMT2D RBBP4 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+KMT2D RBBP7 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+SETD7 RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SMARCD2 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD2 ARID1A {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD2 ARID1B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD2 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD2 KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD2 PBRM1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCD2 SMARCA4 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD2 SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD2 SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCD2 SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP2 ELP4 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP2 ELP6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ELP2 JAK2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+NCOA2 CDK4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+NCOA2 CLOCK {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+NCOA2 EHMT2 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+NCOA2 KAT2B {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+NCOA2 KAT6A {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+NCOA2 NCOA1 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+NCOA2 NCOR1 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+NCOA2 TBL1XR1 {'Annotation': 'complex; inhibit; inhibited by; input; reaction', 'Direction': '|-|', 'Score': 1.0}
+VPS72 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+VPS72 DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUDS3 HDAC2 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+SUDS3 MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+SUDS3 MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+SUDS3 RBBP4 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+SUDS3 RBBP7 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+SUDS3 REST {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+KMT2C ASH2L {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+KMT2C KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KMT2C KDM6A {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+KMT2C NCOR1 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+KMT2C RBBP4 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+KMT2C RBBP7 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+REST ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+REST EHMT2 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+REST HDAC2 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+REST MTA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+REST MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+REST RBBP4 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+REST RBBP7 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+REST SMARCA4 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+REST SMARCE1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+ELP4 ELP6 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+USP22 ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+USP22 SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+USP22 SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+USP22 TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+USP22 TADA2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+USP22 TAF5L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+USP22 TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+CLOCK KAT2B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+CLOCK MTA1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+CLOCK MTA3 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+CLOCK NCOA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CLOCK NCOR1 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+CLOCK RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+CLOCK TBL1XR1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+HDAC2 ARID1A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+HDAC2 ASH2L {'Annotation': 'expression regulated by', 'Direction': '<-', 'Score': 1.0}
+HDAC2 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+HDAC2 EHMT2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC2 GATAD2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC2 MTA1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC2 MTA3 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC2 NCOR1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+HDAC2 RBBP4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC2 RBBP7 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+HDAC2 RELA {'Annotation': 'complex; expression regulated by; input', 'Direction': '<-', 'Score': 1.0}
+HDAC2 SMARCA4 {'Annotation': 'activated by; complex; inhibite; input', 'Direction': '<-|', 'Score': 1.0}
+HDAC2 TADA2B {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+HDAC2 WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+ARID1A ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ARID1A ATF2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+ARID1A KAT2B {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+ARID1A KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID1A KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID1A NCOA1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+ARID1A RELA {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+ARID1A SMARCA4 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID1A SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID1A SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID1A SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PBRM1 ACTB {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PBRM1 SMARCA4 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+PBRM1 SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+PBRM1 SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+PBRM1 SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2B ACTB {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+KAT2B ASH2L {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KAT2B ATF2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KAT2B GATAD2B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+KAT2B NCOA1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KAT2B RELA {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+KAT2B SMARCE1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+KAT2B YEATS2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KAT2B ZZZ3 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PHF20 OGT {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+PAX3 NCOA1 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+NCOR1 ASH2L {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+NCOR1 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+NCOR1 KDM3B {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.69}
+NCOR1 KDM6A {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+NCOR1 NCOA1 {'Annotation': 'activate; inhibited by; input', 'Direction': '|->', 'Score': 1.0}
+NCOR1 RBBP4 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+NCOR1 RBBP7 {'Annotation': 'activate; complex; input', 'Direction': '->', 'Score': 1.0}
+NCOR1 TBL1XR1 {'Annotation': 'activated by; complex; inhibit; input', 'Direction': '<-|', 'Score': 1.0}
+MTA1 ATF2 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+MTA1 EHMT2 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+MTA1 MTA3 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+MTA1 RBBP4 {'Annotation': 'complex; predicted; reaction', 'Direction': '-', 'Score': 1.0}
+MTA1 RBBP7 {'Annotation': 'complex; predicted; reaction', 'Direction': '-', 'Score': 1.0}
+ZZZ3 YEATS2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCA4 ACTB {'Annotation': 'PPrel: binding/association; expression regulated by', 'Direction': '<-', 'Score': 1.0}
+SMARCA4 ARID1B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA4 CDK4 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+SMARCA4 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA4 KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCA4 KDM6A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.63}
+SMARCA4 SMARCB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCA4 SMARCC1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCA4 SMARCE1 {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCA4 TADA2B {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+SMARCA4 WDR77 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+ACTB ARID1B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTB ATF2 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ACTB DMAP1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ACTB KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTB KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTB RELA {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+ACTB SMARCB1 {'Annotation': 'PPrel: binding/association; expression regulated by', 'Direction': '<-', 'Score': 1.0}
+ACTB SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ACTB SMARCE1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATF2 MTA3 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+ATF2 RBBP4 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+ATF2 RBBP7 {'Annotation': 'activate; inhibited by', 'Direction': '|->', 'Score': 1.0}
+ATF2 RELA {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+ATF2 SMARCE1 {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+TAF5L ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF5L SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF5L SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF5L TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF5L TADA2B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TAF5L TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2B ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2B SUPT20H {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2B SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2B TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA2B TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT20H ATXN7 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT20H KDM3A {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.69}
+SUPT20H SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT20H TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SUPT20H TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KDM6A ASH2L {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+KDM6A RBBP4 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+KDM6A RBBP7 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+SMARCE1 ARID1B {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCE1 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCE1 KDM3B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCE1 NCOA1 {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+SMARCE1 RELA {'Annotation': 'complex; reaction', 'Direction': '-', 'Score': 1.0}
+SMARCE1 SMARCB1 {'Annotation': 'PPrel: binding/association; complex', 'Direction': '-', 'Score': 1.0}
+SMARCE1 SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+MSL3 MSL2 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+KDM3B ARID1B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+KDM3B SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+KDM3B SMARCC1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+GATAD2B RBBP4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2B RBBP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+GATAD2B WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+TBL1XR1 NCOA1 {'Annotation': 'complex; inhibit; inhibited by; input; reaction', 'Direction': '|-|', 'Score': 1.0}
+TBL1XR1 RBBP4 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+TBL1XR1 RBBP7 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CDK4 JAK2 {'Annotation': 'activated by; reaction', 'Direction': '<-', 'Score': 1.0}
+CDK4 NCOA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+CDK4 RELA {'Annotation': 'GErel: expression by', 'Direction': '<-', 'Score': 1.0}
+CDK4 SMARCB1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CDK4 SMARCC1 {'Annotation': 'activated by', 'Direction': '<-', 'Score': 1.0}
+CDK4 WDR77 {'Annotation': 'activated by; complex', 'Direction': '<-', 'Score': 1.0}
+SMARCC1 ARID1B {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC1 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCC1 NCOA1 {'Annotation': 'reaction', 'Direction': '-', 'Score': 1.0}
+SMARCC1 SMARCB1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+SMARCC1 WDR77 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+ARID1B KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+ARID1B SMARCB1 {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+EHMT2 MTA3 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EHMT2 RBBP4 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EHMT2 RBBP7 {'Annotation': 'complex; input', 'Direction': '-', 'Score': 1.0}
+EHMT2 RELA {'Annotation': 'activated by; inhibite', 'Direction': '<-|', 'Score': 1.0}
+RBBP7 ASH2L {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+RBBP7 MTA3 {'Annotation': 'complex; predicted; reaction', 'Direction': '-', 'Score': 1.0}
+RBBP7 RBBP4 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+RBBP7 WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+OGT RELA {'Annotation': 'predicted', 'Direction': '-', 'Score': 0.64}
+RELA JAK2 {'Annotation': 'activate', 'Direction': '->', 'Score': 1.0}
+ATXN7 SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7 TADA1 {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ATXN7 TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA1 SUPT7L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+TADA1 TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
+ASH2L RBBP4 {'Annotation': 'catalyze; input', 'Direction': '->', 'Score': 1.0}
+RBBP4 MTA3 {'Annotation': 'complex; predicted; reaction', 'Direction': '-', 'Score': 1.0}
+RBBP4 WDR77 {'Annotation': 'input', 'Direction': '-', 'Score': 1.0}
+SMARCB1 KDM3A {'Annotation': 'PPrel: binding/association', 'Direction': '-', 'Score': 1.0}
+SMARCB1 WDR77 {'Annotation': 'complex; input; reaction', 'Direction': '-', 'Score': 1.0}
+SUPT7L TAF6L {'Annotation': 'complex', 'Direction': '-', 'Score': 1.0}
